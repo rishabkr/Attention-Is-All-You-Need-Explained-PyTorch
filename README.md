@@ -8,7 +8,7 @@ To view the notebook incase it shows some error in viewing directly, please copy
 
 
 
-Additional Readings and References
+Additional Readings and References<br><br>
 [1] Attention is All You Need, Paper https://arxiv.org/pdf/1706.03762.pdf
 
 [2] The Illustrated Transformer by Jay Alamar, https://jalammar.github.io/illustrated-transformer/
