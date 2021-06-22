@@ -4,12 +4,12 @@ A paper implementation and tutorial from scratch combining various great resourc
 This repository combines the explanations of BenTrevett,Jay Alamar and paper authors into one place and shows the implementation of Transformers for Machine Translation from scratch.It can be used for tutorials and self-understanding.It is a long notebook so one can take time to understand.
 The task for which the transformer was trained on is German to English Translation.
 
-<h4>P.S. </h4>
+<h4><u>P.S.</u> </h4>
 To view the notebook incase it shows some error in viewing directly, please copy paste the notebook link to <a href = "https://nbviewer.jupyter.org/">this site </a>.
 
 
 
-<h2>Additional Readings and References</h2><br><br>
+<h2>Additional Readings and References</h2><br>
 [1] Attention is All You Need, Paper https://arxiv.org/pdf/1706.03762.pdf
 
 [2] The Illustrated Transformer by Jay Alamar, https://jalammar.github.io/illustrated-transformer/
